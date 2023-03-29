@@ -6,6 +6,7 @@ const siteMetadata = {
   author: 'Vibush Shanmugam',
   headerTitle: 'TailwindBlog',
   description: 'A blog for wpaskjbdn zqnakjsnde',
+  googleSiteVerification: 'jncTOpZradwzkNOsAHaW5qsgHIJ2077TqLUVSjPQEqg',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -65,20 +66,6 @@ const siteMetadata = {
       lang: 'en',
     },
   },
-  // search: {
-  //   provider: 'kbar', // kbar or algolia
-  //   kbarConfig: {
-  //     searchDocumentsPath: 'search.json', // path to load documents to search
-  //   },
-  //   provider: 'algolia',
-  //   algoliaConfig: {
-  //     // The application ID provided by Algolia
-  //     appId: 'R2IYF7ETH7',
-  //     // Public API key: it is safe to commit it
-  //     apiKey: '599cec31baffa4868cae4e79f180729b',
-  //     indexName: 'docsearch',
-  //   },
-  // },
 }
 
 module.exports = siteMetadata
