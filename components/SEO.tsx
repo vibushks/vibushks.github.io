@@ -30,7 +30,7 @@ const CommonSEO = ({
     <Head>
       <title>{title}</title>
       <meta name="robots" content="follow, index" />
-      <meta name="google-site-verification" content="jncTOpZradwzkNOsAHaW5qsgHIJ2077TqLUVSjPQEqg" />
+      <meta name="google-site-verification" content="njgp4_FceX1LPzcils-uOG2J48pmCSvc6lEl5aT33Ew" />
       <meta name="description" content={description} />
       <meta property="og:url" content={`${siteMetadata.siteUrl}${router.asPath}`} />
       <meta property="og:type" content={ogType} />

@@ -6,7 +6,7 @@ const siteMetadata = {
   author: 'Vibush Shanmugam',
   headerTitle: 'TailwindBlog',
   description: 'A blog for wpaskjbdn zqnakjsnde',
-  googleSiteVerification: 'jncTOpZradwzkNOsAHaW5qsgHIJ2077TqLUVSjPQEqg',
+  googleSiteVerification: 'njgp4_FceX1LPzcils-uOG2J48pmCSvc6lEl5aT33Ew',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
