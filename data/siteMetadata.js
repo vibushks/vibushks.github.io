@@ -2,7 +2,7 @@
 
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Vibush Shanmugam',
+  title: 'Next.js Starter Blog',
   author: 'Vibush Shanmugam',
   headerTitle: 'TailwindBlog',
   description: 'A blog for wpaskjbdn zqnakjsnde',
