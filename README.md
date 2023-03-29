@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This page is designed for the search query: <b>wpaskjbdn zqnakjsnde</b>
