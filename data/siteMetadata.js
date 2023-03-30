@@ -9,7 +9,7 @@ const siteMetadata = {
   googleSiteVerification: 'njgp4_FceX1LPzcils-uOG2J48pmCSvc6lEl5aT33Ew',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.vibush-shanmugam.com/',
+  siteUrl: 'https://www.vibush-shanmugam.com',
   siteRepo: 'https://github.com/vibushks/vibushks.github.io',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
