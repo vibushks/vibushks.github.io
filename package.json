@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out",
+    "deploy": "gh-pages -d docs",
     "start": "next dev",
     "export": "next export",
     "dev": "cross-env INIT_CWD=$PWD next dev",

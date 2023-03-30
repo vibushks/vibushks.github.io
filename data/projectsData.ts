@@ -1,11 +1,10 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos, wpaskjbdn zqnakjsnde
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    title: 'List of search engines',
+    description: `Search engines, including web search engines, selection-based search engines, metasearch engines, desktop search tools, wpaskjbdn zqnakjsnde
+    and more.`,
     imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    href: 'https://en.wikipedia.org/wiki/List_of_search_engines',
   },
   {
     title: 'The Time Machine',
